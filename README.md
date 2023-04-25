@@ -10,9 +10,7 @@
 <a href="https://in.linkedin.com/in/hitendesai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hiten Desai" height="20" width="30" /></a>
 </p>
 
-
 _Projects_ 
-
 ##### [Check my recent project on Docker vulnerability management](https://github.com/cyberhiten/Docker-vuln-mgmt)
 
 Docker vulnerability management & SBOM using OSS tools 
