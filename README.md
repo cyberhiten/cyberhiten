@@ -6,13 +6,12 @@
 
 <h4 align="center">I am passionate about learning linux, OSS tools, bash scripting & python</h4>
 
-<p align="left">
-<a href="https://in.linkedin.com/in/hitendesai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hiten Desai" height="20" width="30" /></a>
-</p>
 
 
 
 
+
+[![Linkedin: Hiten Desai](https://img.shields.io/badge/-HitenDesai-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/hitendesai/)
     
     
 ***Projects***
