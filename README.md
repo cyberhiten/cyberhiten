@@ -4,7 +4,7 @@
 
 <h3 align="center">Hi 👋, I'm Hiten & I work in cyber security </h3>
 
-<h4 align="center">I am passionate about learning linux, OSS tools, bash scripting & python</h4>
+<h4 align="center">I am passionate about linux, OSS tools, Kali Linux, bash scripting & python</h4>
 
 
 
