@@ -1,21 +1,32 @@
 <!--
-**cyberhiten/cyberhiten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cyberhiten/cyberhiten** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
 
-<h3 align="center">Hi 👋, I'm Hiten & I work in cyber security </h3>
+<h3 align="center">Hi 👋, I'm Hiten Desai</h3>
+<h4 align="center">Cybersecurity | GRC | Risk management| secops | OSS Tools</h4>
 
-<h4 align="center">I am passionate about linux, OSS tools, Kali Linux, bash scripting & python</h4>
+<p align="center">
+  <a href="https://in.linkedin.com/in/hitendesai">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+</p>
 
+---
 
+### 🛡️ About Me
 
+- 🔏 Information Security professional with focus on **ISO 27001, TISAX, NIS2, risk management, AI risk management vulnerability management**
+- 🐧 Hands-on: **Linux, Kali, bash scripting, Python**
+- 🐳 Container security & SBOMs using open‑source tools (Trivy, Grype, Syft)
 
+---
 
+### 📌 Featured Project
 
-[![Linkedin: Hiten Desai](https://img.shields.io/badge/-HitenDesai-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/hitendesai/)
-    
-    
-***Projects***
-##### [Check my recent project on Docker vulnerability management](https://github.com/cyberhiten/Docker-vuln-mgmt)
+**[Docker Vulnerability Management POC](https://github.com/cyberhiten/Docker-vuln-mgmt)**  
+Scanned 30+ Docker images, generated SBOMs, and demonstrated risk‑based remediation.  
+→ Includes a post‑incident `SECURITY.md` with modern supply chain best practices.
 
-Docker vulnerability management & SBOM using OSS tools 
-I have done Vulnerability scans of 30+ Docker images using Trivy & Grype (Anchore CLI earlier). My current goal is to perform similar scans using various OSS tools like Trivy, Grype & Syft for SBOM.
+---
+
+⚡ *“Security is not a product, it’s a process.”*
