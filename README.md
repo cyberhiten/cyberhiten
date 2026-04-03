@@ -3,7 +3,7 @@
 -->
 
 <h3 align="center">Hi 👋, I'm Hiten Desai</h3>
-<h4 align="center">Cybersecurity | GRC | Risk management| secops | OSS Tools</h4>
+<h4 align="center">Cybersecurity | GRC | risk management| AI risk management | secops | vulnerability management | OSS Tools</h4>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/hitendesai">
