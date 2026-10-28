@@ -25,7 +25,7 @@
 
 ### 🚀 Featured Projects
 
-- **[LOTSE — Deterministic Security Signals](https://cyberhiten.github.io/lotse-public/)** — Security signals across vulnerabilities, exploits, cloud and threat intelligence. Fixed rules, no AI in the runtime.
+- **[LOTSE — Deterministic Security Signals](https://cyberhiten.github.io/lotse-public/)** — A daily, reproducible view of vulnerability, exploit, cloud and threat intelligence. Fixed rules, transparent feed health, no AI in the runtime.
 - **[Docker Vulnerability Management POC](https://github.com/cyberhiten/Docker-vuln-mgmt)** — Scanned 30+ Docker images, generated SBOMs, and demonstrated risk-based remediation using open-source tools.
 
 ---
