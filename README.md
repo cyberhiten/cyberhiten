@@ -31,9 +31,7 @@
 ---
 
 ### 🔧 Tools
-
-Linux · Python · Bash · Docker · Trivy · Grype · Syft
-
+Linux · Python · Bash · Vulnerability Enrichment · Risk-Based Prioritisation · KEV · EPSS · Docker · SBOM · Trivy · Grype · Syft
 ---
 
 [LinkedIn](https://www.linkedin.com/in/hitendesai/) · [GitHub Projects](https://github.com/cyberhiten)
