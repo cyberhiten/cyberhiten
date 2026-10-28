@@ -3,30 +3,37 @@
 -->
 
 <h3 align="center">Hi 👋, I'm Hiten Desai</h3>
-<h4 align="center">Cybersecurity | GRC | risk management| AI risk management | secops | vulnerability management | OSS Tools</h4>
+<h4 align="center">Cybersecurity | GRC | Security Engineering | AI Security</h4>
+
+<p align="center">🇩🇪 Germany</p>
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/hitendesai">
+  <a href="https://www.linkedin.com/in/hitendesai/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛡️ About Me
+### 🛡️ Areas of Focus
 
-- 🔏 Information Security professional with focus on **ISO 27001, TISAX, NIS2, risk management, AI risk management vulnerability management**
-- 🐧 Hands-on: **Linux, Kali, bash scripting, Python**
-- 🐳 Container security & SBOMs using open‑source tools (Trivy, Grype, Syft)
-
----
-
-### 📌 Featured Project
-
-**[Docker Vulnerability Management POC](https://github.com/cyberhiten/Docker-vuln-mgmt)**  
-Scanned 30+ Docker images, generated SBOMs, and demonstrated risk‑based remediation.  
-→ Includes a post‑incident `SECURITY.md` with modern supply chain best practices.
+- 🔏 **GRC:** ISO 27001, TISAX, NIS2, DORA, GDPR
+- 🛡️ **Security Engineering:** Vulnerability Management, Threat Intelligence, Security Automation
+- 🤖 **AI Security:** Risk, Governance, Deterministic Controls
 
 ---
 
-⚡ *“Security is not a product, it’s a process.”*
+### 🚀 Featured Projects
+
+- **[LOTSE — Deterministic Security Signals](https://cyberhiten.github.io/lotse-public/)** — Security signals across vulnerabilities, exploits, cloud and threat intelligence. Fixed rules, no AI in the runtime.
+- **[Docker Vulnerability Management POC](https://github.com/cyberhiten/Docker-vuln-mgmt)** — Scanned 30+ Docker images, generated SBOMs, and demonstrated risk-based remediation using open-source tools.
+
+---
+
+### 🔧 Tools
+
+Linux · Python · Bash · Docker · Trivy · Grype · Syft
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/hitendesai/) · [GitHub Projects](https://github.com/cyberhiten)
