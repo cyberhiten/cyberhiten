@@ -2,7 +2,7 @@
 **cyberhiten/cyberhiten** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
 
-<h3 align="center">Hi 👋, I'm Hiten Desai</h3>
+<h3 align="center">Hi 👋, I'm Hiten</h3>
 <h4 align="center">Cybersecurity | GRC | Security Engineering | AI Security</h4>
 
 <p align="center">🇩🇪 Germany</p>
