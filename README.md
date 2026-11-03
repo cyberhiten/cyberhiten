@@ -25,7 +25,8 @@
 
 ### 🚀 Featured Projects
 
-- **[LOTSE — Deterministic Security Signals](https://cyberhiten.github.io/lotse-public/)** —Automated daily security-feed aggregation. Deterministic evaluation, reproducible results, no AI at runtime.
+- **[LOTSE — Deterministic Security Signals](https://cyberhiten.github.io/lotse-public/)** · [Archive](https://github.com/cyberhiten/lotse-public/tree/main/archive) — Automated daily security-feed aggregation. Deterministic evaluation, reproducible results, no AI at runtime.
+- **[Wetter HH — Hike Weather](https://cyberhiten.github.io/wetter-hh/)** — Weekend hike forecast for Hamburg, Travemünde and Kiel. Python stdlib only, fixed rules, static output, runs unattended on a systemd timer.
 - **[Docker Vulnerability Management POC](https://github.com/cyberhiten/Docker-vuln-mgmt)** — Scanned 30+ Docker images, generated SBOMs, and demonstrated risk-based remediation using open-source tools.
 
 ---
